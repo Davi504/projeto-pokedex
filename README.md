@@ -1,25 +1,25 @@
 # Projeto-pokedex
 
-### Descrição
+## Descrição
 
 - A Pokédex Interativa é um projeto que exibe informações de Pokémon utilizando a PokéAPI. Ela foi desenvolvida com HTML, CSS/SASS e JavaScript, proporcionando uma interface intuitiva e responsiva, com funcionalidades como busca de Pokémon pelo nome ou número e navegação pelos Pokémon disponíveis.
 
-### Tecnologias utilizadas
+## Tecnologias utilizadas
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript)](https://skillicons.dev)
 
-### Funcionalidades
+## Funcionalidades
 
 - Exibição de uma lista de Pokémon com nome e imagem.
 - Busca interativa por nome ou número do Pokémon.
 - Layout responsivo adaptável para dispositivos móveis e desktops.
 
-### Pré Requisitos
+## Pré Requisitos
 
 - Node.js (opcional, caso deseje compilar o SASS manualmente)
 - Navegador de sua preferência.
   
-### Como rodar localmente
+## Como rodar localmente
 
 - clone o repositório:
 
@@ -56,6 +56,6 @@
 
 
 
-### Licença
+## Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
