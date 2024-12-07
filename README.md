@@ -24,11 +24,21 @@
 - clone o repositório:
 
 ``` sh
-git clone https://github.com/Davi504/projeto-pokedex.git
-cd projeto-pokedex  
+  git clone https://github.com/Davi504/projeto-pokedex
+  cd projeto-pokedex
+```
 
+- Instale as dependências do SASS (opcional):
+ 
+``` sh
+  npm install -g sass 
+```
 
+- Abra o arquivo HTML:
+``` sh
+  start index.html
+```
 
+### Licença
 
-
-
+Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
