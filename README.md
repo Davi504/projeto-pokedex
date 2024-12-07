@@ -34,10 +34,27 @@
   npm install -g sass 
 ```
 
-- Abra o arquivo HTML:
+- Abra o projeto no vscode:
 ``` sh
-  start index.html
+  code .
 ```
+
+### Instale a extensão live server
+
+- Abra o VS Code.
+- Vá para a aba de Extensões
+- Pesquise por Live Server.
+- Instale a extensão desenvolvida por Ritwick Dey.
+
+### Inicie o Live Server
+
+- Clique com o botão direito no arquivo `index.html` no explorador de arquivos do VS Code.
+- Escolha a opção Open with Live Server.
+- O projeto será iniciado no navegador, geralmente no endereço `http://127.0.0.1:5500` ou similar.
+
+
+
+
 
 ### Licença
 
