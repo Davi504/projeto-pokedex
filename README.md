@@ -9,12 +9,6 @@ O principal objetivo deste projeto é criar uma plataforma interativa onde os f�
 ### Público-alvo
 O projeto é destinado a fãs da série Pokémon de todas as idades, desenvolvedores interessados em aprender sobre consumo de APIs públicas e qualquer pessoa que queira explorar informações sobre Pokémon de uma maneira prática e divertida.
 
-### Futuras Melhorias
-- Adicionar filtros avançados para tipos e habilidades de Pokémon.
-- Implementar animações para tornar a interface mais dinâmica.
-- Melhorar a performance com técnicas de pré-carregamento de dados.
-- Permitir a comparação entre diferentes Pokémon.
-
 ## Processo de Desenvolvimento
 O desenvolvimento começou com a definição da estrutura HTML e a estilização básica usando SASS. Em seguida, implementei a lógica em JavaScript para consumir a PokéAPI e exibir os dados dos Pokémon. O principal foco foi garantir que a aplicação fosse rápida e responsiva, proporcionando uma experiência de usuário agradável em dispositivos móveis e desktops.
 
