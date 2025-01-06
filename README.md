@@ -3,6 +3,11 @@
 ## Descrição
 A Pokédex Interativa é um projeto que exibe informações de Pokémon utilizando a PokéAPI. Ela foi desenvolvida com HTML, CSS/SASS e JavaScript, proporcionando uma interface intuitiva e responsiva, com funcionalidades como busca de Pokémon pelo nome ou número e navegação pelos Pokémon disponíveis.
 
+## Video da aplicação rodando
+
+[Link do video](https://youtu.be/Yt0YC5bU-X0?si=yHiuY_FFu99l2YmF)
+
+
 ## Objetivo
 O principal objetivo deste projeto é criar uma plataforma interativa onde os fãs de Pokémon possam explorar e descobrir informações sobre seus personagens favoritos de forma rápida e intuitiva.
 
