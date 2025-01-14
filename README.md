@@ -36,7 +36,7 @@ O desenvolvimento começou com a definição da estrutura HTML e a estilização
 - **Solução**: Adotei a metodologia BEM (Block, Element, Modifier) para nomear classes, mantendo o código modular e fácil de manter.
 
 ## Tecnologias Utilizadas
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,javascript)](https://skillicons.dev)
 
 ## Funcionalidades
 - **Exibição de uma lista de Pokémon** com nome e imagem.
